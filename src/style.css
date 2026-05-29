@@ -1,5 +1,7 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+body { 
+  background: url('./assets/img/Pikachu-Pokemon-Background.jpg');
+
 }
+p {font-size: 90px;}
